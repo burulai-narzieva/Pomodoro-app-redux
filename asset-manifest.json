@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Pomodoro-app-redux/static/css/main.f9f168f2.chunk.css",
+    "main.js": "/Pomodoro-app-redux/static/js/main.5b63b480.chunk.js",
+    "main.js.map": "/Pomodoro-app-redux/static/js/main.5b63b480.chunk.js.map",
+    "runtime-main.js": "/Pomodoro-app-redux/static/js/runtime-main.c8cb3f12.js",
+    "runtime-main.js.map": "/Pomodoro-app-redux/static/js/runtime-main.c8cb3f12.js.map",
+    "static/js/2.de9c8c41.chunk.js": "/Pomodoro-app-redux/static/js/2.de9c8c41.chunk.js",
+    "static/js/2.de9c8c41.chunk.js.map": "/Pomodoro-app-redux/static/js/2.de9c8c41.chunk.js.map",
+    "index.html": "/Pomodoro-app-redux/index.html",
+    "precache-manifest.b72cf98fc9d8a67508495b8c1e8e002c.js": "/Pomodoro-app-redux/precache-manifest.b72cf98fc9d8a67508495b8c1e8e002c.js",
+    "service-worker.js": "/Pomodoro-app-redux/service-worker.js",
+    "static/css/main.f9f168f2.chunk.css.map": "/Pomodoro-app-redux/static/css/main.f9f168f2.chunk.css.map",
+    "static/js/2.de9c8c41.chunk.js.LICENSE.txt": "/Pomodoro-app-redux/static/js/2.de9c8c41.chunk.js.LICENSE.txt",
+    "static/media/bell.flac": "/Pomodoro-app-redux/static/media/bell.525320df.flac"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8cb3f12.js",
+    "static/js/2.de9c8c41.chunk.js",
+    "static/css/main.f9f168f2.chunk.css",
+    "static/js/main.5b63b480.chunk.js"
+  ]
+}
